@@ -1,6 +1,6 @@
 # Backend for puhelinluettelo
 
-- Heroku: [https://murmuring-inlet-34485.herokuapp.com/api/persons](https://murmuring-inlet-34485.herokuapp.com/api/persons)
+- Heroku: [https://murmuring-inlet-34485.herokuapp.com/](https://murmuring-inlet-34485.herokuapp.com/)
 
 ---
 
